@@ -18,7 +18,7 @@ function scrollTo(element, to, duration) {
     }, 10);
 }
 
-const routes = [
+const routes = [ 
   { path: '/', component: Inicio },
   { path: '/temporadas', component: Temporadas },
   { path: '/bso-escribe', component: BsoEscribe },
